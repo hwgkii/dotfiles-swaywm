@@ -1,0 +1,6 @@
+# Arquivos privados
+.env
+.env.*
+*.pem
+*.key
+secrets/
